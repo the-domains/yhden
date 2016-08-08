@@ -23,6 +23,8 @@ analytics:
   twitter: null
 author:
   name: Tom Pattinson
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/05cd97cc-89d3-4ea2-96da-4ebe9c5a5299.png
 name: Yhden
 cta:
   domain: null
@@ -33,6 +35,6 @@ navigation:
     id: b74d089f-dba0-4a45-996b-a47b9a0c42f9
     type: content
 favicon: null
-title: Creating global content for international brands
+title: ''
 description: ''
 purpose: []
