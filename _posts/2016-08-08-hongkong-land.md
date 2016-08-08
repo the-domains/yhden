@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-08T19:16:34.661Z'
+datePublished: '2016-08-08T19:23:14.861Z'
 sourcePath: _posts/2016-08-08-hongkong-land.md
 inFeed: false
 authors: []
@@ -9,7 +9,7 @@ author:
   - name: Tom Pattinson
     url: ''
 via: {}
-dateModified: '2016-08-08T19:16:34.299Z'
+dateModified: '2016-08-08T19:23:14.462Z'
 title: HONGKONG LAND
 publisher: {}
 description: >-
