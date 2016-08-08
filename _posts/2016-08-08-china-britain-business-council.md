@@ -9,16 +9,20 @@ description: >-
   China-Britain Business Council and the British Chamber of Commerce. A new
   name, a new look and six years later, the monthly FOCUS magazine is read by
   the highest level of business and government leaders across China and the UK.
-datePublished: '2016-08-08T15:28:36.376Z'
-dateModified: '2016-08-08T15:19:20.147Z'
-title: ''
+datePublished: '2016-08-08T15:54:56.324Z'
+dateModified: '2016-08-08T15:29:04.345Z'
+title: CHINA-BRITAIN BUSINESS COUNCIL
 author:
   - name: Tom Pattinson
     url: ''
 via: {}
 sourcePath: _posts/2016-08-08-china-britain-business-council.md
 authors: []
-publisher: {}
+publisher:
+  name: ''
+  domain: null
+  url: ''
+  favicon: null
 starred: false
 url: cbbc-collateral/index.html
 _type: Blurb
