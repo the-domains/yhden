@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Main Page name
-datePublished: '2016-08-08T14:25:16.096Z'
-dateModified: '2016-08-08T14:25:02.185Z'
+datePublished: '2016-08-08T14:46:30.886Z'
+dateModified: '2016-08-08T14:45:51.428Z'
 title: Source Title
 author:
   - name: Tom Pattinson
@@ -15,9 +15,9 @@ via: {}
 sourcePath: _posts/2016-08-08-swire-properties.md
 authors: []
 publisher:
-  name: ''
+  name: null
   domain: null
-  url: ''
+  url: null
   favicon: null
 starred: false
 url: swire-properties/index.html
