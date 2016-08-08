@@ -24,7 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation: []
+navigation:
+  - name: ABOUT US
+    id: b74d089f-dba0-4a45-996b-a47b9a0c42f9
+    type: content
 favicon: null
 title: Yhden
 description: Creating global content for international brands
