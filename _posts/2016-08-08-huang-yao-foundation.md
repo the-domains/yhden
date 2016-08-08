@@ -10,8 +10,8 @@ description: >-
   research and write a book on a legendary artists and cartoonist famed from his
   work in the 1930s. Researching, archiving, writing, translating and designing
   the book 
-datePublished: '2016-08-08T15:45:23.725Z'
-dateModified: '2016-08-08T15:45:18.100Z'
+datePublished: '2016-08-08T15:49:02.691Z'
+dateModified: '2016-08-08T15:45:32.559Z'
 title: HUANG YAO FOUNDATION
 author:
   - name: Tom Pattinson
