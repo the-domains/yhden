@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-08T15:28:06.856Z'
-dateModified: '2016-08-08T15:27:45.032Z'
+datePublished: '2016-08-08T15:29:17.006Z'
+dateModified: '2016-08-08T15:28:13.980Z'
 title: HONG KONG DESIGN INSTITUTE
 author:
   - name: Tom Pattinson
