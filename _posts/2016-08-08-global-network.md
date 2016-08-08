@@ -1,9 +1,10 @@
 ---
-datePublished: '2016-08-08T19:26:03.000Z'
+datePublished: '2016-08-08T19:35:21.891Z'
+sourcePath: _posts/2016-08-08-global-network.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-08T19:25:49.178Z'
+dateModified: '2016-08-08T19:35:21.299Z'
 title: ''
 publisher: {}
 description: >-
@@ -11,7 +12,6 @@ description: >-
   priceless black book of editors from the world’s, most influential
   publications.
 starred: false
-sourcePath: _posts/2016-08-08-global-network.md
 _context: 'http://schema.org'
 _type: Article
 
