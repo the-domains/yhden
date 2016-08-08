@@ -1,21 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
 description: HONG KONG DESIGN INSTITUTE
-datePublished: '2016-08-08T13:33:35.136Z'
-dateModified: '2016-08-08T13:32:58.077Z'
+datePublished: '2016-08-08T15:25:47.148Z'
+dateModified: '2016-08-08T15:25:11.725Z'
 title: ''
 author: []
 via: {}
-authors: []
-publisher: {}
-starred: false
 sourcePath: _posts/2016-08-08-hong-kong-design-institute.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: true
 url: hong-kong-design-institute/index.html
-_type: Article
+_type: Blurb
 
 ---
 HONG KONG DESIGN INSTITUTE
