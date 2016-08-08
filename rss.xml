@@ -4,7 +4,7 @@
         <description><![CDATA[Yhden]]></description>
         <link>https://thegrid.ai/yhden/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Aug 2016 15:55:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2016 15:55:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/yhden/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ABOUT US]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/yhden/about-us/index.html</link>
             <guid isPermaLink="false">b74d089f-dba0-4a45-996b-a47b9a0c42f9</guid>
             <pubDate>Mon, 08 Aug 2016 15:48:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[SWIRE PROPERTIES]]></title>
+            <description><![CDATA[<article><h1>SWIRE PROPERTIES</h1><p>For the opening of Swire Properties first mainland Chinese shopping complex, we produced a monthly lifestyle magazine showcase for tenants, events and activities. Using expert writers, translators and photographers the Village Times engaged with hundreds of thousands of readers and visitors.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18f7a94f-b987-4cbd-bb1c-b132c5eacfa9.png"></article>]]></description>
+            <link>https://thegrid.ai/yhden/swire-properties/index.html</link>
+            <guid isPermaLink="false">275ff918-7fe9-4bf6-9787-87cde077301d</guid>
+            <pubDate>Mon, 08 Aug 2016 15:55:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[HONGKONG LAND]]></title>
@@ -54,13 +61,6 @@
             <link>https://thegrid.ai/yhden/jaguar-land-rover/index.html</link>
             <guid isPermaLink="false">70599cd7-8d85-432f-868c-3c13e1540300</guid>
             <pubDate>Mon, 08 Aug 2016 15:34:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[SWIRE PROPERTIES]]></title>
-            <description><![CDATA[<article><h1>SWIRE PROPERTIES</h1><p>For the opening of Swire Properties first mainland Chinese shopping complex, we produced a monthly lifestyle magazine showcase for tenants, events and activities. Using expert writers, translators and photographers the Village Times engaged with hundreds of thousands of readers and visitors.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/18f7a94f-b987-4cbd-bb1c-b132c5eacfa9.png"></article>]]></description>
-            <link>https://thegrid.ai/yhden/swire-properties/index.html</link>
-            <guid isPermaLink="false">275ff918-7fe9-4bf6-9787-87cde077301d</guid>
-            <pubDate>Mon, 08 Aug 2016 15:24:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
