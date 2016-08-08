@@ -4,15 +4,21 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: HUANG YAO FOUNDATION
-datePublished: '2016-08-08T15:44:23.569Z'
-dateModified: '2016-08-08T13:41:00.908Z'
-title: ''
-author: []
+description: ''
+datePublished: '2016-08-08T15:44:36.776Z'
+dateModified: '2016-08-08T15:44:30.000Z'
+title: HUANG YAO FOUNDATION
+author:
+  - name: Tom Pattinson
+    url: ''
 via: {}
 sourcePath: _posts/2016-08-08-huang-yao-foundation.md
 authors: []
-publisher: {}
+publisher:
+  name: ''
+  domain: null
+  url: ''
+  favicon: null
 starred: false
 url: huang-yao-foundation/index.html
 _type: Article
