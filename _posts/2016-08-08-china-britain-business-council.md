@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-08-08T13:24:09.665Z'
-dateModified: '2016-08-08T13:23:59.954Z'
+datePublished: '2016-08-08T13:46:01.321Z'
+dateModified: '2016-08-08T13:45:51.157Z'
 title: CHINA-BRITAIN BUSINESS COUNCIL
 author:
   - name: Tom Pattinson
@@ -15,7 +15,7 @@ via: {}
 sourcePath: _posts/2016-08-08-china-britain-business-council.md
 authors: []
 publisher:
-  name: Tom Pattinson
+  name: ''
   domain: null
   url: ''
   favicon: null
