@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: HONG KONG DESIGN INSTITUTE
-datePublished: '2016-08-08T15:25:47.148Z'
-dateModified: '2016-08-08T15:25:11.725Z'
+datePublished: '2016-08-08T15:27:38.492Z'
+dateModified: '2016-08-08T15:26:21.694Z'
 title: ''
 author: []
 via: {}
@@ -17,7 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 url: hong-kong-design-institute/index.html
 _type: Blurb
 
