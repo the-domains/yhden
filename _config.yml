@@ -1,7 +1,7 @@
 name: Yhden
 favicon: null
 layout_spectrum: 0.74684
-typography_spectrum: 0.43017233558930457
+typography_spectrum: 0.31379
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#acaeb1'
     - '#00afdb'
   brandStrength: 0.8316991294268519
-  lightness: 0.5892270593903959
-  saturation: 0.8318769275210798
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.6592677086591721
 purpose: []
