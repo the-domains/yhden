@@ -1,24 +1,28 @@
-typography_spectrum: 0.6345543060451746
+typography_spectrum: 0.31379
+content_rating:
+  adult: false
 color:
   brandColors:
-    - '#FFFFFF'
-    - '#1D1F25'
-    - '#CF4A39'
-    - '#D97163'
-    - '#646870'
-  brandStrength: 0.09607504867017269
-  lightness: 0.3047164320014417
-  saturation: 0.8171794950030744
-  rhythmicContrast: 0.6443145119119436
+    - '#242731'
+    - '#f1f1f1'
+    - '#f45543'
+    - '#acaeb1'
+    - '#00afdb'
+  brandStrength: 0.8316991294268519
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.6592677086591721
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.4488378018140793
+layout_spectrum: 0.74684
 analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Tom Pattinson
 name: Yhden
 cta:
   domain: null
@@ -29,6 +33,6 @@ navigation:
     id: b74d089f-dba0-4a45-996b-a47b9a0c42f9
     type: content
 favicon: null
-title: Yhden
+title: Creating global content for international brands
 description: Creating global content for international brands
 purpose: []
