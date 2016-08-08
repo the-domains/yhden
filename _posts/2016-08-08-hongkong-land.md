@@ -8,8 +8,8 @@ description: >-
   We have created a number of publications for Asia’s leading property
   developer, including custom magazines such as the annual Artzine and
   publications for their upcoming properties.
-datePublished: '2016-08-08T15:22:47.706Z'
-dateModified: '2016-08-08T15:22:34.512Z'
+datePublished: '2016-08-08T15:55:10.440Z'
+dateModified: '2016-08-08T15:22:56.546Z'
 title: HONGKONG LAND
 author:
   - name: Tom Pattinson
