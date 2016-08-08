@@ -4,23 +4,30 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: HONGKONG LAND
-datePublished: '2016-08-08T15:21:19.376Z'
-dateModified: '2016-08-08T15:19:42.926Z'
-title: ''
-author: []
+description: >-
+  We have created a number of publications for Asia’s leading property
+  developer, including custom magazines such as the annual Artzine and
+  publications for their upcoming properties.
+datePublished: '2016-08-08T15:22:27.879Z'
+dateModified: '2016-08-08T15:21:57.579Z'
+title: HONGKONG LAND
+author:
+  - name: Tom Pattinson
+    url: ''
 via: {}
 sourcePath: _posts/2016-08-08-hongkong-land.md
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
 starred: false
 url: hongkong-land/index.html
 _type: Article
 
 ---
-HONGKONG LAND
+We have created a number of publications for Asia's leading property developer, including custom magazines such as the annual Artzine and publications for their upcoming properties.
+
+Using expert knowledge, superior design and high quality photography, we have been trusted to produce branding materials for the Hong Kong based brand.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c36fac7-3aaf-48a9-9e05-f17e761b9d5d.png)
