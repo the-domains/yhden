@@ -24,10 +24,7 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: OUR WORK
-    id: 15f12691-295c-4934-90f2-7a2f3a0d6011
-    type: content
+navigation: []
 favicon: null
 title: Yhden
 description: Creating global content for international brands
