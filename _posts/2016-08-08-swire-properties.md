@@ -9,8 +9,8 @@ description: >-
   we produced a monthly lifestyle magazine showcase for tenants, events and
   activities. Using expert writers, translators and photographers the Village
   Times engaged with hundreds of thousands of readers and visitors.
-datePublished: '2016-08-08T15:24:08.836Z'
-dateModified: '2016-08-08T15:17:16.782Z'
+datePublished: '2016-08-08T15:55:28.536Z'
+dateModified: '2016-08-08T15:24:16.639Z'
 title: SWIRE PROPERTIES
 author:
   - name: Tom Pattinson
