@@ -10,8 +10,8 @@ description: >-
   and media involvement. The two legs in China included a race between a James
   Bond stuntman and the world drone racing champion, and an experience along
   China’s Sky Road with the road’s engineer.
-datePublished: '2016-08-08T15:34:00.138Z'
-dateModified: '2016-08-08T15:33:52.606Z'
+datePublished: '2016-08-08T15:34:15.432Z'
+dateModified: '2016-08-08T15:34:02.643Z'
 title: JAGUAR LAND ROVER
 author:
   - name: Tom Pattinson
