@@ -5,15 +5,15 @@ inNav: false
 inLanguage: null
 keywords: []
 description: HUANG YAO FOUNDATION
-datePublished: '2016-08-08T13:40:54.166Z'
-dateModified: '2016-08-08T13:40:34.804Z'
+datePublished: '2016-08-08T15:44:23.569Z'
+dateModified: '2016-08-08T13:41:00.908Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-08-08-huang-yao-foundation.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-08-08-huang-yao-foundation.md
 url: huang-yao-foundation/index.html
 _type: Article
 
