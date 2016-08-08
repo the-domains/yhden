@@ -9,8 +9,8 @@ description: >-
   we produced a monthly lifestyle magazine showcase for tenants, events and
   activities. Using expert writers, translators and photographers the Village
   Times engaged with hundreds of thousands of readers and visitors.
-datePublished: '2016-08-08T15:14:21.946Z'
-dateModified: '2016-08-08T15:14:20.573Z'
+datePublished: '2016-08-08T15:17:08.830Z'
+dateModified: '2016-08-08T15:16:34.895Z'
 title: SWIRE PROPERTIES
 author:
   - name: Tom Pattinson
@@ -29,4 +29,4 @@ _type: Article
 
 ---
 For the opening of Swire Properties first mainland Chinese shopping complex, we produced a monthly lifestyle magazine showcase for tenants, events and activities. Using expert writers, translators and photographers the Village Times engaged with hundreds of thousands of readers and visitors.
-![Caption (alt)](https://the-grid-user-content.s3-us-west-2.amazonaws.com/18f7a94f-b987-4cbd-bb1c-b132c5eacfa9.png)
+![Swire Properties monthly lifestyle magazine](https://the-grid-user-content.s3-us-west-2.amazonaws.com/18f7a94f-b987-4cbd-bb1c-b132c5eacfa9.png)
